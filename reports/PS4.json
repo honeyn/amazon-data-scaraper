@@ -1,0 +1,82 @@
+{
+    "title": "PS4",
+    "date": "10/11/2020 00:20:17",
+    "best_item": {
+        "asin": "B07YFDL1JW",
+        "url": "http://www.amazon.in/dp/B07YFDL1JW",
+        "title": "ThrustMaster T-LCM Pedals | Magnetic & Load Cell Pedals | Racing Wheel Add-On | PC/ PS4/ Xbox One",
+        "seller": "Visit the ThrustMaster Store",
+        "price": 22799.0
+    },
+    "currency": "\u20b9",
+    "filters": {
+        "min": "20000",
+        "max": "30000"
+    },
+    "base_link": "http://www.amazon.in/",
+    "products": [
+        {
+            "asin": "B08FNXXH5J",
+            "url": "http://www.amazon.in/dp/B08FNXXH5J",
+            "title": "PS4 1TB Slim Bundled with Spider-Man, GTaSport, Ratchet & Clank And PSN 3Month",
+            "seller": "Brand: Sony",
+            "price": 27990.0
+        },
+        {
+            "asin": "B08JLQPTX8",
+            "url": "http://www.amazon.in/dp/B08JLQPTX8",
+            "title": "Sony PS4 1TB Slim Console with Additional Dualshock Controller (Black)&Grand Theft Auto V \u2013 Premium",
+            "seller": "Visit the Sony Store",
+            "price": 28999.0
+        },
+        {
+            "asin": "B08JLR6999",
+            "url": "http://www.amazon.in/dp/B08JLR6999",
+            "title": "Sony PS4 1TB Slim Console with Additional Dualshock Controller (Black)&Uncharted Collection Hits (PS4)",
+            "seller": "Visit the Sony Store",
+            "price": 28299.0
+        },
+        {
+            "asin": "B07YB7P3WT",
+            "url": "http://www.amazon.in/dp/B07YB7P3WT",
+            "title": "Sony PS4 1TB Slim Console with Additional Dualshock Controller (Black) + FIFA 20(PlayStation 4)",
+            "seller": "Brand: Sony",
+            "price": 28799.0
+        },
+        {
+            "asin": "B08JLPK9BL",
+            "url": "http://www.amazon.in/dp/B08JLPK9BL",
+            "title": "Sony PS4 1TB Slim Console with Additional Dualshock Controller (Black)&PS4 God of War (PS4)",
+            "seller": "Visit the Sony Store",
+            "price": 28399.0
+        },
+        {
+            "asin": "B07WC5XKS4",
+            "url": "http://www.amazon.in/dp/B07WC5XKS4",
+            "title": "Sony PS4 1TB Slim Console + Borderlands 3 (PS4)",
+            "seller": "Brand: Sony",
+            "price": 28639.0
+        },
+        {
+            "asin": "B07YFDL1JW",
+            "url": "http://www.amazon.in/dp/B07YFDL1JW",
+            "title": "ThrustMaster T-LCM Pedals | Magnetic & Load Cell Pedals | Racing Wheel Add-On | PC/ PS4/ Xbox One",
+            "seller": "Visit the ThrustMaster Store",
+            "price": 22799.0
+        },
+        {
+            "asin": "B013DYX7BS",
+            "url": "http://www.amazon.in/dp/B013DYX7BS",
+            "title": "Logitech G29 Driving Force Racing Wheel and Floor Pedals, Real Force, Stainless Steel Paddle Shifters, Leather Steering Wheel Cover, Adjustable Floor Pedals, PS4/PS3/PC/Mac \u2013 Black",
+            "seller": "Visit the Logitech Store",
+            "price": 25995.0
+        },
+        {
+            "asin": "B07YB7V6BL",
+            "url": "http://www.amazon.in/dp/B07YB7V6BL",
+            "title": "Sony PS4 1TB Slim Console with Additional Dualshock Controller (Black) + WWE 2K20 (PS4)",
+            "seller": "Brand: Sony",
+            "price": 28999.0
+        }
+    ]
+}
